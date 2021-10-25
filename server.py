@@ -4,7 +4,7 @@ from player import Player
 import pickle
 import random
 clients=[]
-server = "192.168.0.185"
+server = "YOUR IP ADRESS"
 port = 5555
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
