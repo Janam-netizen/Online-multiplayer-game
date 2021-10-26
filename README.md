@@ -2,7 +2,7 @@
 
 A program in python that runs a server and  renders a window consisting of a rectangular objects indicatng positions of different clients . The rectangular objects move within the window in response to keys pressed by their clients.These changes are reflected in the other client's windows.
 
-# Instructions on executing the game
+# Instructions on executing the game(Locally)
 
 <ol>
   <li> Make sure you are in the top level of directory
@@ -35,5 +35,16 @@ Expect the following on the console window
   python3 client.py
   ```
   You should see a square located on the top left corner of the pygame client window as follows
+  
+   ![](Client-window.png)
+  
+   The blue square moves on pressing the UP/DOWN/LEFT/RIGHT arrow keys. You could open up another tab of your terminal and type in the command given in step5.
+  
+  
+  This should open a new window with new blue square. The new square will respond to the press of the arrow keys  by moving. These should be reflect as you switch to the prevoious tab.
+  
+  
+  
+  
   
   
