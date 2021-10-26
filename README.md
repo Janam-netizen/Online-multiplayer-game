@@ -43,6 +43,8 @@ Expect the following on the console window
   
   This should open a new window with new blue square. The new square will respond to the press of the arrow keys  by moving. These should be reflect as you switch to the prevoious tab.
   
+  ![](new-client-window.png)
+  
   
   
   
